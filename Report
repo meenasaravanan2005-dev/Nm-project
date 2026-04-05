@@ -1,0 +1,53 @@
+REPLASTIC INNOVATIONS: TRANSFORMING PLASTIC WASTE INTO SUSTAINABLE AND ECO-FRIENDLY SOLUTIONS
+Project Overview
+Replastic Innovations is a smart plastic waste management and recycling system designed to reduce plastic pollution and promote environmental sustainability using modern technologies.
+This system helps manage the entire lifecycle of plastic waste, including collection, sorting, recycling, and production of reusable products. It allows organizations to efficiently track plastic waste, monitor recycling processes, and analyze environmental impact through data analytics.
+The main goal of this project is to encourage responsible plastic waste management while creating eco-friendly products from recycled materials. The platform focuses on automation, sustainability, and efficient waste tracking to support a cleaner and greener future.
+Features
+Waste Collection Management
+This feature allows the system to store and manage details of plastic waste collected from different locations such as households, industries, and public collection centers. It helps track the quantity and type of plastic waste collected.
+Plastic Sorting & Processing
+After collection, plastic waste is categorized based on its type and quality. The system monitors the sorting process and tracks the recycling stages to ensure proper waste management.
+Recycled Product Management
+The recycled plastic materials are used to manufacture useful products such as eco-bricks, tiles, containers, and other reusable materials. The system manages product details and production records.
+Waste Tracking System
+This feature helps track the movement of plastic waste from collection to recycling and product manufacturing. It ensures transparency and efficient monitoring of waste processing.
+Billing System
+The billing system generates invoices for recycling services, manages payments, and records financial transactions related to plastic collection and recycling activities.
+Dashboard
+The dashboard provides visual reports and analytics showing the amount of plastic recycled, products manufactured, and the environmental impact. It helps administrators make better decisions using data insights.
+Technologies Used
+Salesforce CRM
+Salesforce CRM is used to manage data related to waste collection, recycling processes, and product management. It helps organize information efficiently and supports automation.
+Flow Builder
+Salesforce Flow Builder is used to automate workflows within the system. For example, it can automatically update waste collection records or notify administrators about recycling activities.
+Apex Trigger
+Apex triggers are used to automate specific actions in the system when certain events occur, such as updating waste records or generating alerts.
+Modules
+Admin Module
+The admin module manages the entire system. Administrators can monitor waste collection, recycling processes, user activities, and system reports.
+Waste Collection Module
+This module records details about plastic waste collected from different locations and manages transportation of waste to recycling centers.
+Recycling Module
+The recycling module tracks the processing of plastic waste and manages recycling activities to convert waste into reusable materials.
+Product Management Module
+This module manages products created from recycled plastic, including product details, production quantity, and inventory management.
+Payment Module
+The payment module handles billing, payment tracking, and financial transactions related to recycling services.
+Analytics Module
+The analytics module generates reports and visual dashboards showing recycling statistics, waste reduction levels, and environmental impact.
+
+Documentation
+
+
+
+Team Members 
+Kaviarasan S
+Kadhirvel V
+Kavin gaiser U J
+
+Each team member contributed to different aspects of the project such as system design, development, documentation, and implementation.
+
+Outcome
+The Replastic Innovations system successfully developed a smart plastic waste management platform that helps reduce plastic pollution by converting waste into reusable products.
+The project improves waste tracking, recycling efficiency, and environmental sustainability while supporting eco-friendly innovations for a cleaner planet.
